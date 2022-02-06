@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsamirali
 - 👀 I’m interested in js and python
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning djnago, next js
 - 💞️ I’m looking to collaborate on nothing
 - 📫 my email : itsreal.karimi@gmail.com
 
